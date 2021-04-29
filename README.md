@@ -1,2 +1,1 @@
-# Zeera-App-Clone
-Zeera App Clone
+<h1 align = "center"> ZIRA APP </h1>
